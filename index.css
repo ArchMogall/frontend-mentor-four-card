@@ -155,7 +155,7 @@ h2 {
 }
 
 .grid__card:hover {
-  transform: translateY(-10px);
+  transform: translateY(-10px) scale(105%);
 }
 
 .grid__card img {
